@@ -1,5 +1,7 @@
-Welcome to Glitch
+Attempt to make a glitch to zeit with github in the middle
 =================
+
+* 
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
